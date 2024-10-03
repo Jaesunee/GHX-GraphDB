@@ -1,8 +1,10 @@
 # GHX Knowledge Graph Capstone 2023
 
+Healthcare Knowledge Graph Capstone Project.
+
 ## Description
 
-This repository stores the code and relevant data for the GHX Healthcare Supply Chain Knowledge Graph capstone project for the University of Colorado Boulder Computer Science Department (2023, GHX sponsored). The goal of the project was to model the healthcare supply chain using a graph database, allowing people to extract actionable insights through database queries and network analysis algorithms. Additionally, we an interactive UI for querying and visualizing the graph database online can be deployed (neo4j browser).
+This repository contains the code and relevant data for the Healthcare Knowledge Graph Capstone Project, developed by the University of Colorado Boulder Computer Science Department in 2023, sponsored by GHX. The goal of the project was to model the healthcare supply chain using a graph database, allowing people to extract actionable insights through database queries and network analysis algorithms. Additionally, we an interactive UI for querying and visualizing the graph database online can be deployed (neo4j browser).
 
 ## Table of Contents
 
